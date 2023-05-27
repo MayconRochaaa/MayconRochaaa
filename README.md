@@ -18,7 +18,7 @@ Olá, me chamo Maycon, 24 anos, moro no interior de São Paulo e sou graduado em
 
 ## Educação
 
-- **UFSCAr** (Física, 2023): Bacharelado em física pela UFSCar. Participei do grupo de supercondutividade e magnetismo, onde desenvolvi duas iniciações científicas. Também atuei como monitor em diversas disciplinas do departamento de matemática. [Currículo Lattes](link_do_seu_perfil_no_Lattes)
+- **UFSCAr** (Física, 2023): Bacharelado em física pela UFSCar. Participei do grupo de supercondutividade e magnetismo, onde desenvolvi duas iniciações científicas. Também atuei como monitor em diversas disciplinas do departamento de matemática. [Currículo Lattes](http://lattes.cnpq.br/3590206519788920)
 
 ## Interesses
 
