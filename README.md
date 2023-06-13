@@ -8,15 +8,22 @@ Olá, me chamo Maycon, 24 anos, moro no interior de São Paulo e sou graduado em
 
 **Análise e Manipulação de Dados:** Python, Numpy, Pandas, SQL;
 
-**Modelagem Estatística e Machine Learning:** Scikit-learn;
+**Modelagem Estatística e Machine Learning:** Scikit-learn, XGBoost, Boruta;
 
-**Visualização de Dados:** Matplotlib, Plotly, Seaborn, Streamlit.
+**Visualização de Dados:** Matplotlib, Plotly, Seaborn, Streamlit;
+
+**Engenharia de software:** Git, Github, Flask, Streamlit Cloud, Render Cloud.
 
 ## Projetos Destacados
-<!-- - [Nome do projeto 1](link_para_o_projeto1): Breve descrição do projeto. -->
+
+- [ROSSMANN STORES - SALES PREDICT](https://github.com/MayconRochaaa/rossmann_project): Criação de um modelo de machine learning para prever a venda das lojas da rede Rossmann nas seis semanas futuras. 
+
+- [ZOMATO DASHBOARD](https://github.com/MayconRochaaa/zomato_restaurants): Criação de um dashboard interativo a partir de uma análise de dados do Marketplace Zomato. 
 
 
 ## Educação
+
+- **Comunidade DS**: Comunidade com foco no estudo e desenvolvimento de projetos na área de Data Science.
 
 - **UFSCAr** (Física, 2023): Bacharelado em física pela UFSCar. Participei do grupo de supercondutividade e magnetismo, onde desenvolvi duas iniciações científicas. Também atuei como monitor em diversas disciplinas do departamento de matemática. [Currículo Lattes](http://lattes.cnpq.br/3590206519788920)
 
