@@ -16,6 +16,8 @@ Olá, me chamo Maycon, 24 anos, moro no interior de São Paulo e sou graduado em
 
 ## Projetos Destacados
 
+- [ROSSMANN STORES - SALES PREDICT](https://github.com/MayconRochaaa/health_insurance): Neste projeto foi de desenvolvido um modelo capaz de rankear a base de clientes de uma seguradora de saúde por propensão a adquirir um segundo seguro, no caso, o de automóvel.
+
 - [ROSSMANN STORES - SALES PREDICT](https://github.com/MayconRochaaa/rossmann_project): Criação de um modelo de machine learning para prever a venda das lojas da rede Rossmann nas seis semanas futuras. 
 
 - [ZOMATO DASHBOARD](https://github.com/MayconRochaaa/zomato_restaurants): Criação de um dashboard interativo a partir de uma análise de dados do Marketplace Zomato. 
